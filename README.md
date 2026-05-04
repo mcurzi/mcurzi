@@ -16,7 +16,7 @@ I lead R&D teams in the agricultural sector, focusing on the study of biological
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[ggebp](https://github.com/mcurzi/ggebp)** | GGE-Biplot & Mosaic Plot implementation for GxE interaction analysis. | R, ggplot2 |
-| **[custom-8bit-cpu-emu](https://github.com/mcurzi/custom-8bit-cpu)** | My own 8-bit architecture emulator including a custom ISA, Assembler, and memory visualizer. | Python, Tkinter |
+| **[custom-8bit-cpu](https://github.com/mcurzi/custom-8bit-cpu)** | My own 8-bit architecture emulator including a custom ISA, Assembler, and memory visualizer. | Python, Tkinter |
 
 ## Contact & Links
 * [LinkedIn](https://www.linkedin.com/in/matiascurzi/)
