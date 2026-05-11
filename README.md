@@ -1,6 +1,6 @@
 # Matias Curzi
 
-I lead R&D teams in the agricultural sector, focusing on the study of biological and agroecological systems. Outside the field, I’m interested in understanding how things work from their foundations (genes, transistors) to the large-scale results we see in the field or on a screen.
+I lead R&D teams in the agricultural sector, focusing on the study of biological and agroecological systems. Outside the field, I’m interested in understanding how things work from their foundations (base pairs and logic gates) to the large-scale results we see in the field or on a screen.
 
 ## Professional Focus
 * **AgTech & Research:** I lead research and development areas in new crop technologies, managing complex field and laboratory trial networks.
